@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, I am Maulik Sutariya
+- 🎓 I am pursuing BSC.IT at Maharaja Krishnakumarsinhji Bhavnagar University.
+- 👨‍💻 I found my interest in Web development and I'm doing my best to learn new things regularly
 <!--
 **MaulikSutariya/MaulikSutariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
